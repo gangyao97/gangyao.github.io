@@ -3,6 +3,5 @@
 This is my personal knowledge base. Here, I document things I learn and find useful.
 
 ## Categories
-- [Programming](programming.md)
-- [Books](books.md)
-- [Travel](travel.md)
+- [Power Electronics](power electronics.md)
+- [Computer Science](Computer Science.md)
