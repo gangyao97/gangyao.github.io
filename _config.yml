@@ -5,10 +5,12 @@ navigation:
     url: /
   - title: Computer Science
     url: /computer_science/
-    subcategories:
-      - title: Program Language
-        url: /computer_science/program-language/
-      - title: Data Science
-        url: /comupter_science/data-science/
-      - title: Software Engineering
-        url: /computer_science/software-engineering/
+  - title: Power Electronics
+    url: /power_electronics/
+    #subcategories:
+     # - title: Program Language
+      #  url: /computer_science/program-language/
+      #- title: Data Science
+      #  url: /comupter_science/data-science/
+      #- title: Software Engineering
+      #  url: /computer_science/software-engineering/
