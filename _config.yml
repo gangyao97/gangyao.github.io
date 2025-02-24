@@ -4,11 +4,11 @@ navigation:
   - title: Home
     url: /
   - title: Computer Science
-    url: /computer science/
+    url: /computer_science/
     subcategories:
       - title: Program Language
-        url: /computer science/program-language/
+        url: /computer_science/program-language/
       - title: Data Science
-        url: /comupter science/data-science/
+        url: /comupter_science/data-science/
       - title: Software Engineering
-        url: /computer science/software-engineering/
+        url: /computer_science/software-engineering/

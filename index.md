@@ -3,5 +3,5 @@
 This is my personal knowledge base. Here, I document things I learn and find useful.
 
 ## Categories
-- [Power Electronics](power electronics.md)
-- [Computer Science](Computer Science.md)
+- [Power Electronics](power_electronics/)
+- [Computer Science](computer_science/)
